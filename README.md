@@ -8,8 +8,7 @@
 
 ---
 
-## ✨ Sobre
-**RentWorkers** é uma plataforma simples que conecta profissionais qualificados a clientes em busca de seus serviços.
+
 
 ---
 
