@@ -1,6 +1,19 @@
--- BACKEND
-
 # RentWorkers PROJECT💻
+
+## ✨ Sobre
+A **RentWorkers** é uma plataforma que conecta profissionais qualificados a clientes em busca de seus serviços. Seja para contratar alguém para realizar uma tarefa específica ou oferecer suas habilidades a potenciais clientes, a RentWorkers torna o processo fácil, seguro e eficiente.
+
+### Como Usar  
+
+#### Para Clientes
+- Explore ou pesquise profissionais em diversas categorias.   
+- Envie uma solicitação de trabalho ao profissional.  
+#### Para Profissionais
+- Crie um perfil destacando sua especialização.
+- Construa sua reputação através de trabalhos de qualidade e boas avaliações.  
+
+
+# BACK-END
 
 ## 📌 Índice
 - [Tecnologias](#technologies)   
@@ -8,14 +21,13 @@
 
 ---
 
-
-
 ---
 
 ## 💻 Tecnologias
 - **Java**  
 - **Dbeaver**  
 - **Spring Boot**
+- **Maven**
  
 
 ---
@@ -26,9 +38,9 @@
 
 
 ### 🔧 Pré-requisitos
-- [Spring Boot Extension Pack](https://github.com/)  
-- [Extension Pack for Java](https://github.com/)  
-- [Dbeaver](https://github.com/)  
+- [Spring Boot Extension Pack]
+- [Extension Pack for Java]
+- [Dbeaver]
 
 -- BANCO DE DADOS -- 
 
@@ -90,25 +102,9 @@ npm install
 npm run dev
 
 ````
--- FRONTEND
+--
 
-# RentWorkers PROJECT 💻
-
-## 📌 Índice
-- [Tecnologias](#technologies)
-
----
-## ✨ Sobre
-A **RentWorkers** é uma plataforma que conecta profissionais qualificados a clientes em busca de seus serviços. Seja para contratar alguém para realizar uma tarefa específica ou oferecer suas habilidades a potenciais clientes, a RentWorkers torna o processo fácil, seguro e eficiente.
-
-### Como Usar  
-
-#### Para Clientes
-- Explore ou pesquise profissionais em diversas categorias.   
-- Envie uma solicitação de trabalho ao profissional.  
-#### Para Profissionais
-- Crie um perfil destacando sua especialização.
-- Construa sua reputação através de trabalhos de qualidade e boas avaliações.  
+# FRONT END 💻
 
 ---
 
@@ -118,18 +114,15 @@ A **RentWorkers** é uma plataforma que conecta profissionais qualificados a cli
 
 ## 💻 Tecnologias
 
-- **Backend**: Spring Boot  
-- **Frontend**: React com Vite  
-- **Banco de Dados**: DBeaver  
-- **Ferramentas**: Maven  
-
+- **Frontend**: React com Vite
+  
 ---
 
 
 ### 🔧 Requisitos
-- [NodeJS](https://github.com/)  
-- [Git 2](https://github.com/)  
-
+- [NodeJS](https://nodejs.org/pt)
+- [React]
+  
 ### 🛠️ Clonagem
 
 ```bash
