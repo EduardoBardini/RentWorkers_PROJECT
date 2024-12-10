@@ -97,7 +97,7 @@ npm run dev
 
 ## 📌 Índice
 - [Tecnologias](#technologies)
-- 
+
 ---
 ## ✨ Sobre
 A **RentWorkers** é uma plataforma que conecta profissionais qualificados a clientes em busca de seus serviços. Seja para contratar alguém para realizar uma tarefa específica ou oferecer suas habilidades a potenciais clientes, a RentWorkers torna o processo fácil, seguro e eficiente.
