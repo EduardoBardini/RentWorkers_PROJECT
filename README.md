@@ -97,10 +97,6 @@ git clone https://github.com/EduardoBardini/RentWorkers_PROJECT.git
 
 cd RentWorkers_PROJECT
 
-npm install
-
-npm run dev
-
 ````
 --
 
